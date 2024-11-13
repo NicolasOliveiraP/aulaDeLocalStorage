@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-color: rgb(107, 135, 160);
+    
+}
+.section{
+    border-radius: 15px;
+    border-style: groove;
+    background-color: rgb(150, 206, 255);
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+}
+input{
+    width: 25%;
+    border-radius: 4px;
+    height: 3vh;
+    font-family: cursive;
+}
+button{
+    width: 27%;
+    background-color: rgb(169, 255, 198);
+    border-radius: 15px;
+    
+}
+button:hover{
+    background-color: rgb(55, 255, 122);
+
+}
+h1{
+    font-family: cursive;
+    color: white;
+}
+label{
+    font-family: cursive;
+    
+}
